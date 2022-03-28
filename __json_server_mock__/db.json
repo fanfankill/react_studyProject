@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+       "name":"fanfan",
+       "email":"1623920276@qq.com",
+       "title":"good",
+       "organization":"团购",
+       "created":"1604989856125"
+    },{
+      "id":2,
+      "name":"xixi",
+      "email":"1623920276@qq.com",
+      "title":"good",
+      "organization":"外卖组",
+      "created":"1604989856125"
+    }
+  ],
+  "projects":[
+    {
+      "id":1,
+      "name":"骑手管理",
+      "personId":1,
+      "organization":"外卖组",
+      "created":"1604989856125"
+    },{
+      "id":2,
+      "name":"团购 APP",
+      "personId":2,
+      "organization":"团购",
+      "created":"1604989856125"
+    }
+  ]
+}
